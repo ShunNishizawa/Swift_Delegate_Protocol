@@ -14,3 +14,7 @@
 
 - 処理を任される側の実装（デリゲートメソッドを実装）
     - 実際に行いたい処理を実装する。
+
+## 参考資料
+[【Swift入門】難解なデリゲート(delegate)の使い方を理解しよう！](https://www.sejuku.net/blog/33867)
+[【Swift】hogehoge.delegate = self は何をしているのか。](https://qiita.com/saka2jp/items/7667e0cc81ad91016f03)
